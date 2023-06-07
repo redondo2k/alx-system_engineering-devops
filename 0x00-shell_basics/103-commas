@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pd * .[^.]*/ | tr '\n' ','; echo
+ls -xamp
